@@ -1,6 +1,6 @@
 # Brain Tumor Classification using CNN and TensorFlow 2.16
 
-This project is an updated and improved version of my old projec which can be found: [Github repository for CNN brain tumor classification 2023](https://github.com/GusLovesMath/CNN_Brain_Tumor)
+The following is an updated version of my [CNN brain tumor classification 2023](https://github.com/GusLovesMath/CNN_Brain_Tumor) project.
 
 ## Overview 🧠
 
