@@ -1,5 +1,7 @@
 # Brain Tumor Classification using CNN and TensorFlow 2.16
 
+This project is an updated and improved version of my old projec which can be found: [Github repository for CNN brain tumor classification 2023](https://github.com/GusLovesMath/CNN_Brain_Tumor)
+
 ## Overview 🧠
 
 This repository contains the code and documentation for a Convolutional Neural Network (CNN) designed to classify brain tumors into multiple categories: Glioma, Meningioma, No Tumor, and Pituitary. With the utilization of TensorFlow 2.16 and GPU acceleration, the model achieves a remarkable accuracy rate of 99.6%, demonstrating its robustness as a diagnostic tool. The project showcases the effectiveness of advanced CNN models, optimized with learning rates and early stopping mechanisms, in improving the accuracy and efficiency of brain tumor diagnosis, which is pivotal for enhancing medical treatment outcomes.
