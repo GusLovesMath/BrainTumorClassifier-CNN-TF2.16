@@ -19,7 +19,7 @@ This repository contains the code and documentation for a Convolutional Neural N
   - GPU acceleration to expedite training processes.
   - Implementation of EarlyStopping and ReduceLROnPlateau callbacks to prevent overfitting and optimize learning rates during training.
 
-## About the Dataset 
+## About the Dataset 📁
 
 This project uses a comprehensive dataset combining figshare, SARTAJ, and Br35H collections, totaling 7023 MRI images classified into four categories: glioma, meningioma, no tumor, and pituitary. The dataset is designed for in-depth brain tumor analysis, crucial for early detection and accurate classification, which are key in determining the appropriate treatment path.
 
