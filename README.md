@@ -6,6 +6,8 @@ The following is an updated version of my [CNN brain tumor classification 2023](
 
 This repository contains the code and documentation for a Convolutional Neural Network (CNN) designed to classify brain tumors into multiple categories: Glioma, Meningioma, No Tumor, and Pituitary. With the utilization of TensorFlow 2.16 and GPU acceleration, the model achieves a remarkable accuracy rate of 99.6%, demonstrating its robustness as a diagnostic tool. The project showcases the effectiveness of advanced CNN models, optimized with learning rates and early stopping mechanisms, in improving the accuracy and efficiency of brain tumor diagnosis, which is pivotal for enhancing medical treatment outcomes.
 
+Kaggle project link: [Brain Tumor Classification 99.6% - TensorFlow 2.16](https://www.kaggle.com/code/guslovesmath/tumor-classification-99-6-tensorflow-2-16)
+
 ## Project Details 
 
 - **Project Language**: Python, TensorFlow 2.16, Keras, Pandas, NumPy, Seaborn, Matplotlib.
