@@ -15,7 +15,7 @@ Kaggle project link: [Brain Tumor Classification 99.7% - TensorFlow 2.16](https:
 - **Categories Classified**: Glioma, Meningioma, No Tumor, and Pituitary.
 - **Key Techniques Used**:
   - Data augmentation to enhance dataset diversity and robustness.
-  - Fine-tuning of learning rates with the Adam optimizer for better convergence.
+  - Fine-tuning of learning rates using callbacks for better convergence.
   - Utilization of beta_1 and beta_2 values adjustments in the Adam optimizer.
 - **Performance Enhancements**:
   - GPU acceleration to expedite training processes.
